@@ -5,6 +5,7 @@ A basic game that I wrote in C by following along with Bro Code on Youtube (http
 The console output looks like this when you run it:
 
 ########################################################################
+
 Enter a row to place your move #(1-3): 3
 
 Enter a column to place your move #(1-3): 3
